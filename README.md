@@ -17,3 +17,7 @@ My extra CSS on top of [water.css](https://watercss.kognise.dev/)
   crossorigin="anonymous"
 />
 ```
+
+Used in:
+
+- [notes.dt.in.th](https://github.com/dtinth/notes.dt.in.th)
