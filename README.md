@@ -8,7 +8,7 @@ My extra CSS on top of [water.css](https://watercss.kognise.dev/)
 />
 <link
   rel="stylesheet"
-  href="dtinth-water.css"
+  href="https://cdn.jsdelivr.net/gh/dtinth/dtinth-water@v0.1.0/dtinth-water.css"
 />
 <link
   rel="stylesheet"
