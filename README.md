@@ -8,13 +8,7 @@ My extra CSS on top of [water.css](https://watercss.kognise.dev/)
 />
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dtinth/dtinth-water@v0.1.0/dtinth-water.css"
-/>
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/water.css@2.0.0/out/dark.min.css"
-  integrity="sha256-hwssFiO1q9mOqx1k7bbzQHlQbiUgmas0fx1QOluEWH0="
-  crossorigin="anonymous"
+  href="https://cdn.jsdelivr.net/combine/npm/water.css@2.0/out/dark.min.css,gh/dtinth/dtinth-water@v0.1/dtinth-water.min.css"
 />
 ```
 
