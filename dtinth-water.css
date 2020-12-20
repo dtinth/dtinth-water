@@ -19,37 +19,37 @@
 [data-dtinth] body {
   line-height: 1.64;
 }
-[data-dtinth] H1 {
+[data-dtinth] h1 {
   color: #8b8685;
 }
-[data-dtinth] H2 {
+[data-dtinth] h2 {
   color: #d7fc70;
   text-shadow: 2px 2px RGBA(215, 252, 112, 0.15);
 }
-[data-dtinth] H3 {
+[data-dtinth] h3 {
   color: #febfea;
   text-shadow: 2px 2px RGBA(0, 0, 0, 0.25);
 }
-[data-dtinth] CODE {
+[data-dtinth] code {
   background: #252423;
   font-family: Comic Mono, Menlo, Consolas, sans-serif;
 }
-[data-dtinth] :not(PRE) > CODE {
+[data-dtinth] :not(pre) > code {
   border: 1px solid #555453;
   box-shadow: 0 1px 0 #252423;
   border-radius: 2px;
   border-bottom-width: 2px;
   background: #252423;
 }
-[data-dtinth] FIGURE {
+[data-dtinth] figure {
   text-align: center;
 }
-[data-dtinth] FIGCAPTION {
+[data-dtinth] figcaption {
   font-style: italic;
   color: #bef;
   margin-top: -1em;
 }
-[data-dtinth] FOOTER,
-[data-dtinth] FOOTER A {
+[data-dtinth] footer,
+[data-dtinth] footer a {
   color: #8b8685;
 }
